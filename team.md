@@ -3,16 +3,16 @@ layout: page
 title: Team
 ---
 
-# Person A
+# Richard
 
 Short bio ...
 
 
-# Person B
+# Harsha
 
 Short bio ...
 
 
-# Person C
+# Jyri
 
 Short bio ...
